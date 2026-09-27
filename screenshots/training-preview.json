@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/training",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aidyl Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 1047,
+      "bodyTextHash": "ed8de501eff5816d79467d598fb3bbad7c0ce33f85465b93e94054b798b7d919",
+      "bodyTextPrefix": "AS Aidyl Systems desk Master Command Train agents Activity Repor",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/training-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aidyl Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 882,
+      "bodyTextHash": "97389788b212e04344cd99d7519f34c7215d19d5acc9374321967137c41abdf7",
+      "bodyTextPrefix": "Aidyl Train agents TRAINING STUDIO Teach them something they wil",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/training-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/training-preview.json"
+}

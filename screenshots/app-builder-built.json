@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aidyl Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 1322,
+      "bodyTextHash": "0aa512c793ffcb3445bddfcd81b3b70899db1d40c17b850f6d8f0810ed285ae3",
+      "bodyTextPrefix": "AS Aidyl Systems desk Master Command Train agents Activity Repor",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aidyl Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 1157,
+      "bodyTextHash": "fe9c8b0c388458b66a35e753fc3aceb96de3243f566c959336c2ee12074a0b81",
+      "bodyTextPrefix": "Aidyl Train agents COMMAND Every company. One desk that talks ba",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
